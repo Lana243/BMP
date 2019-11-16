@@ -6,3 +6,11 @@ Application which allows to crop and rotate the BMP image.
 2. Implemented console utility for it.
 
 3. Studied BMP format.
+
+4. Interface description:
+
+     The program gets the parameters from the console and should check their correctness.
+      ```
+      ./hw_01 crop-rotate <in-bmp-file> <out-bmp-file> <x> <y> <w> <h>
+      ```
+     
